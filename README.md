@@ -1,0 +1,2 @@
+AI_Breakout_2025_08_15.pde　はProcessing4で動作しますがMinimライブラリが必要です。
+また、AI_Breakout_2025_08_15.pdeと同じフォルダにhit_ball.mp3　hit_brick.mp3　hit_paddle.mp3を置いてください。
